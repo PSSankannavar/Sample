@@ -1,0 +1,26 @@
+a:link, a:visited {
+    background-color: lightblue;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: green;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: none;
+    padding: 10px;
+}
+.padding1{
+ padding-left: 100px;
+}
+.padding2{
+ padding-left: 60px;
+}

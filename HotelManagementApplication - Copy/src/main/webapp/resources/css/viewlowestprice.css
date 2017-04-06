@@ -1,0 +1,74 @@
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: lightblue;
+    color: white;
+}
+
+.button {
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 3px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-weight: bold;
+}
+/* select.my_dropdown {
+    width:150px;
+     height:30px;
+     line-height:30px;
+      background:#f4f4f4;
+}
+*/
+select:focus#my_dropdown {
+    width:auto\10;
+}
+ 
+
+ /* The CSS */
+select {
+	width:180px;
+     height:35px;
+     line-height:30px;
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: lightblue;
+    color:black;
+    font-weight: bold;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+} 
+
+ option {color:#6666;font-weight:bold; padding:5px} 

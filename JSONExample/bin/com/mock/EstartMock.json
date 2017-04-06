@@ -1,0 +1,51 @@
+{
+  "submissionNo": "68835963",
+  "doesBusinessAs": "",
+  "uweid": "GAIN#2",
+  "creditedBranch": "01",
+  "currency": "001",
+  "gesKeys": {
+    "creditedBranch": "1",
+    "currency": "USD"
+  },
+  "accountInfo": {
+    "dnbNO": "12203402",
+    "dnbName": "BEN RAYMOND INC",
+    "parentClientDunsNo": "12203402",
+    "ultimateParentClientDunsNo": "12203402",
+    "mailAddr": "545 BROADWAY FRNT,NEW YORK,NY",
+    "acctStatIndicator": "Y",
+    "region": "",
+    "countryCd": "000",
+    "secondarySIC": "5131",
+    "primarySIC": "5131",
+    "marketSegment": "512",
+    "gesKeys": {
+      "marketSegment": "102"
+    }
+  },
+  "producerInfo": {
+    "producerNo": "0100379",
+    "businessName": "HORAN ASSOCIATES  INC         "
+  },
+  "productList": [
+    {
+      "workingBranch": "01",
+      "minorLineDivision": "93",
+      "minorLineSection": "0064",
+      "product": "F",
+      "pucClassPerils": "0103",
+      "blockingProcessStatusCd": "",
+      "proposedPolicyEfctvDt": "2015-08-27",
+      "policy": {
+        "effectiveDt": "2015-08-27",
+        "expiryDt": "2016-08-27",
+        "issuingCompany": "000000019"
+      },
+      "gesKeys": {
+        "workingBranch": "1",
+        "productId": "3531"
+      }
+    }
+  ]
+}
